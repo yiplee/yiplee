@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 iOS & Go 后端开发  
+- 📖 My Blog [yiplee 开发笔记](https://blog.yiplee.com)
+
+### Latest Blogs
+
+- [基于 Twirp RPC 的简易 JSON Api Gateway 实现](https://blog.yiplee.com/posts/twirp-rpc-gateway/)
+
 <!--
 **yiplee/yiplee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
