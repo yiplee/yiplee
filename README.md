@@ -5,6 +5,7 @@
 
 ### Latest Blogs
 
+- [微信抢红包简易实现 Go + Gorm](https://blog.yiplee.com/posts/packet-example/)
 - [基于 Twirp RPC 的简易 JSON Api Gateway 实现](https://blog.yiplee.com/posts/twirp-rpc-gateway/)
 
 <!--
