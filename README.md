@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  iOS & Go 后端开发  
+- 🔭  Go 后端开发
 - 📖  My Blog [yiplee 开发笔记](https://blog.yiplee.com)
 
 ### Latest Blogs
